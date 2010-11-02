@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Image-LibExif
-version:            0.01
+version:            0.03
 abstract:           Read EXIF. Efficiently
 author:
     - Mons Anderson <mons@cpan.org>
